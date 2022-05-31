@@ -1,6 +1,6 @@
 Project Title: Long-term investment analysis of SPY vs BTC vs ETH
 
-Team Members: Hamza Hegab. Nico Eiden, Joshua Mitchell
+Team Members: Hamza Hegab, Nico Eiden, Joshua Mitchell, Mayura Solom
 
 Project Description: The returns, volatility and risk for each asset will be analyzed using variance, standard deviation, beta, sharpe ratio, and calmar ratio. A short summary and various graphs will also be used to better portray the findings of the analysis.
 
