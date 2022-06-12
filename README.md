@@ -6,6 +6,8 @@
 
 **Datasets to be Used:** Daily closing prices of SPY, BTC, and ETH between 01-01-2016 & 5-30-2022
 
+**Presentation**: https://docs.google.com/presentation/d/1ZoEKHR18mg7sCGPzZw6Q7FbuqkUyTXF3pUQ5JLAtT8I/edit?usp=sharing
+
 ---
 
 ## Summary
